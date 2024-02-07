@@ -1,3 +1,14 @@
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+## [Unreleased] - 2024-02-06
+
+### Added
+
+- Implemented HashTable.
+- Added test cases for HashTable.
+
 ## [Unreleased] - 2024-02-03
 
 ### Added
