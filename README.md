@@ -10,6 +10,7 @@ Generic collections in Python.
 
 - [HashTable](./src/datastructpy/hash_table.py)
 - [LinkedList](./src/datastructpy/linked_list.py)
+- [PriorityQueue](./src/datastructpy/priority_queue.py)
 - [Queue](./src/datastructpy/queue.py)
 - [Stack](./src/datastructpy/stack.py)
 

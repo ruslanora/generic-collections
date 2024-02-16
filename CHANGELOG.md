@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [Unreleased] - 2024-02-15
+
+## Added
+
+- Implemented PriorityQueue.
+
 ## [Unreleased] - 2024-02-06
 
 ### Added
