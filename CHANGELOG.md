@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [Unreleased] - 2024-02-16
+
+## Added
+
+- Added test cases for HashTable and PriorityQueue.
+
 ## [Unreleased] - 2024-02-15
 
 ## Added
