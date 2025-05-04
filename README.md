@@ -1,4 +1,4 @@
-# datastructpy
+# generic-collections
 
 Generic collections in Python.
 
